@@ -1,0 +1,11 @@
+# Environment variables & secrets
+.env
+
+# Python cache and virtual environments
+__pycache__/
+venv/
+.venv/
+*.pyc
+
+# Local outputs / test files
+outputs/*.json
